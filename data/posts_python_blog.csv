@@ -1,0 +1,165 @@
+title,date,content
+"Python 3.15.0 alpha 5 (yes, another alpha!)","Wednesday, January 14, 2026","Note: 3.15.0a4 was accidentally built againstmainfrom
+2025-12-23 instead of 2026-01-13, so this 3.15.0a5 is an extra release
+correctly built against 2026-01-14.This is an early developer preview of Python
+3.15www.python.org/downloads/release/python-3150a5/Major
+new features of the 3.15 series, compared to 3.14Python 3.15 is still in development. This release, 3.15.0a5, is the
+fifth ofseveneight planned alpha releases.Alpha releases are intended to make it easier to test the current
+state of new features and bug fixes and to test the release process.During the alpha phase, features may be added up until the start of
+the beta phase (2026-05-05) and, if necessary, may be modified or
+deleted up until the release candidate phase (2026-07-28). Please keep
+in mind that this is a preview release and its use isnotrecommended for production environments.Many new features for Python 3.15 are still being planned and
+written. Among the new major new features and changes so far:PEP
+799: A new high-frequency, low-overhead, statistical sampling
+profiler and dedicated profiling packagePEP
+686: Python now uses UTF-8 as the default encodingPEP
+782: A newPyBytesWriterC API to create a Python bytes
+objectTheJIT
+compilerhas been significantly upgraded, with 4-5% geometric mean
+performance improvement on x86-64 Linux over the standard interpreter,
+and 7-8% speedup on AArch64 macOS over the tail-calling interpreterImproved
+error messages(Hey,fellow core developer,if a feature
+you find important is missing from this list, let Hugo
+know.)The next pre-release of Python 3.15 will be 3.15.0a6, currently
+scheduled for 2026-02-10.More resourcesOnline
+documentationPEP 790, 3.15
+release scheduleReport bugs athttps://github.com/python/cpython/issuesHelp fund
+Python directly(or viaGitHub Sponsors) and
+supportthe Python
+communityAnd now for
+something completely differentAt last it was given out that some time next day the ship would
+certainly sail. So next morning, Queequeg and I took a very early
+start.Enjoy the new releaseThanks to all of the many volunteers who help make Python Development
+and these releases possible! Please consider supporting our efforts by
+volunteering yourself or through organisation contributions to thePython Software
+Foundation.Regards from a still snowfully subzero Helsinki,Your release team,Hugo van KemenadeNed DeilySteve DowerŁukasz Langa"
+Python 3.15.0 alpha 4,"Tuesday, January 13, 2026","Edit: This 3.15.0a4 was accidentally built against `main` from 2025-12-23 instead of 2026-01-13, so3.15.0a5is an extra release correctly built against 2026-01-14.This is an early developer preview of Python
+3.15www.python.org/downloads/release/python-3150a4/Major
+new features of the 3.15 series, compared to 3.14Python 3.15 is still in development. This release, 3.15.0a4, is the
+fourth of seven planned alpha releases.Alpha releases are intended to make it easier to test the current
+state of new features and bug fixes and to test the release process.During the alpha phase, features may be added up until the start of
+the beta phase (2026-05-05) and, if necessary, may be modified or
+deleted up until the release candidate phase (2026-07-28). Please keep
+in mind that this is a preview release and its use isnotrecommended for production environments.Many new features for Python 3.15 are still being planned and
+written. Among the new major new features and changes so far:PEP
+799: A new high-frequency, low-overhead, statistical sampling
+profiler and dedicated profiling packagePEP
+686: Python now uses UTF-8 as the default encodingPEP
+782: A newPyBytesWriterC API to create a Python bytes
+objectTheJIT
+compilerhas been significantly upgraded, with 3-4% geometric mean
+performance improvement on x86-64 Linux over the standard interpreter,
+and 7-8% speedup on AArch64 macOS over the tail-calling interpreterImproved
+error messages(Hey,fellow core developer,if a feature
+you find important is missing from this list, let Hugo
+know.)The next pre-release of Python 3.15 will be 3.15.0a5, currently
+scheduled for 2026-02-10.More resourcesOnline
+documentationPEP 790, 3.15
+release scheduleReport bugs athttps://github.com/python/cpython/issuesHelp fund
+Python directly(or viaGitHub Sponsors) and
+supportthe Python
+communityAnd now for
+something completely differentUpon this every soul was confounded; for the phenomenon just then
+observed by Ahab had unaccountably escaped every one else; but its very
+blinding palpableness must have been the cause.Thrusting his head half way into the binnacle, Ahab caught one
+glimpse of the compasses; his uplifted arm slowly fell; for a moment he
+almost seemed to stagger. Standing behind him Starbuck looked, and lo!
+the two compasses pointed East, and the Pequod was as infallibly going
+West.But ere the first wild alarm could get out abroad among the crew, the
+old man with a rigid laugh exclaimed, “I have it! It has happened
+before. Mr. Starbuck, last night’s thunder turned our compasses—that’s
+all. Thou hast before now heard of such a thing, I take it.”“Aye; but never before has it happened to me, sir,” said the pale
+mate, gloomily.Enjoy the new releaseThanks to all of the many volunteers who help make Python Development
+and these releases possible! Please consider supporting our efforts by
+volunteering yourself or through organisation contributions to thePython Software
+Foundation.Regards from a snowfully subzero Helsinki,Your release team,Hugo van KemenadeNed DeilySteve DowerŁukasz Langa"
+Python 3.15.0 alpha 3,"Tuesday, December 16, 2025","This is an early developer preview of Python
+3.15www.python.org/downloads/release/python-3150a3/Major
+new features of the 3.15 series, compared to 3.14Python 3.15 is still in development. This release, 3.15.0a3, is the
+third of seven planned alpha releases.Alpha releases are intended to make it easier to test the current
+state of new features and bug fixes and to test the release process.During the alpha phase, features may be added up until the start of
+the beta phase (2026-05-05) and, if necessary, may be modified or
+deleted up until the release candidate phase (2026-07-28). Please keep
+in mind that this is a preview release and its use isnotrecommended for production environments.Many new features for Python 3.15 are still being planned and
+written. Among the new major new features and changes so far:PEP
+799: A new high-frequency, low-overhead, statistical sampling
+profiler and dedicated profiling packagePEP
+686: Python now uses UTF-8 as the default encodingPEP
+782: A newPyBytesWriterC API to create a Python bytes
+objectImproved
+error messages(Hey,fellow core developer,if a feature
+you find important is missing from this list, let Hugo
+know.)The next pre-release of Python 3.15 will be 3.15.0a4, currently
+scheduled for 2026-01-13.More resourcesOnline
+documentationPEP 790, 3.15
+release scheduleReport bugs athttps://github.com/python/cpython/issuesHelp fund
+Python directly(or viaGitHub Sponsors) and
+supportthe Python
+communityAnd now for
+something completely differentInstantly the captain ran forward, and in a loud voice commanded his
+crew to desist from hoisting the cutting-tackles, and at once cast loose
+the cables and chains confining the whales to the ship.“What now?” said the Guernsey-man, when the Captain had returned to
+them.“Why, let me see; yes, you may as well tell him now that—that—in
+fact, tell him I’ve diddled him, and (aside to himself) perhaps somebody
+else.”Enjoy the new releaseThanks to all of the many volunteers who help make Python Development
+and these releases possible! Please consider supporting our efforts by
+volunteering yourself or through organisation contributions to thePython Software Foundation.Regards from an even deeper darker Helsinki,Your release team,Hugo van KemenadeNed DeilySteve DowerŁukasz Langa"
+Python 3.14.2 and 3.13.11 are now available!,"Friday, December 5, 2025","Two more, just three days after the last? Yes!We found some regressions, so here’s an expedited pair of releases.
+They also come with some bonus security fixes.Python 3.14.2www.python.org/downloads/release/python-3142/Python 3.14.2 is the second maintenance release of 3.14, containing
+18 bugfixes, build improvements and documentation changes since
+3.14.1.This is an expedited release to fix the following regressions:gh-142206:
+Exceptions inmultiprocessingin running programs while
+upgrading Python.gh-142214:
+Exceptions in dataclasses without__init__method.gh-142218:
+Segmentation faults and assertion failures in insertdict.gh-140797:
+Crash when using multiple capturing groups inre.ScannerAnd these security fixes:gh-142145:
+Remove quadratic behavior in node ID cache clearing (CVE-2025-12084)gh-119452:
+Fix a potential virtual memory allocation denial of service in
+http.serverSee the fullchangelog.Python 3.13.11www.python.org/downloads/release/python-31311/Python 3.13.11 is the eleventh maintenance release of 3.13. This is
+an expedited release to fix the following regressions:gh-142206:
+Exceptions inmultiprocessingin running programs while
+upgrading Python.gh-142218:
+Segmentation faults and assertion failures in insertdict.gh-140797:
+Crash when using multiple capturing groups inre.ScannerAnd these security fixes:gh-142145:
+Remove quadratic behavior in node ID cache clearing (CVE-2025-12084)gh-119451:
+Fix a potential denial of service in http.clientgh-119452:
+Fix a potential virtual memory allocation denial of service in
+http.serverSee the fullchangelog.Enjoy the new releaseThanks to all of the many volunteers who help make Python Development
+and these releases possible! Please consider supporting our efforts by
+volunteering yourself or through organisation contributions to thePython Software Foundation.Regards from deeper darker Helsinki,Your release team,Hugo van KemenadeThomas WoutersNed DeilySteve DowerŁukasz Langa"
+"Python 3.13.10 is now available, too, you know!","Tuesday, December 2, 2025","The latest version of Python 3.13 is now available!Python 3.13.10https://www.python.org/downloads/release/python-31310/This is the tenth maintenance release of Python 3.13Python 3.13.10 is the tenth maintenance 
+release of 3.13, containing around 300 bugfixes, build improvements and 
+documentation changes since 3.13.9.Full ChangelogMore resourcesOnline DocumentationPEP 719, 3.13 Release ScheduleReport bugs athttps://github.com/python/cpython/issues.Help fund Python directly(orvia GitHub Sponsors), and supportthe Python community.Enjoy the new releasesThanks to all of the many volunteers who help make Python Development
+ and these releases possible! Please consider supporting our efforts by 
+volunteering yourself or through organization contributions to the 
+Python Software Foundation.Regards from your package managers,Thomas WoutersNed DeilySteve DowerŁukasz Langa"
+Python 3.15.0 alpha 2,"Wednesday, November 19, 2025","This is an early developer preview of Python
+3.15https://www.python.org/downloads/release/python-3150a2/Major
+new features of the 3.15 series, compared to 3.14Python 3.15 is still in development. This release, 3.15.0a2, is the
+second of seven planned alpha releases.Alpha releases are intended to make it easier to test the current
+state of new features and bug fixes and to test the release process.During the alpha phase, features may be added up until the start of
+the beta phase (2026-05-05) and, if necessary, may be modified or
+deleted up until the release candidate phase (2026-07-28). Please keep
+in mind that this is a preview release and its use isnotrecommended for production environments.Many new features for Python 3.15 are still being planned and
+written. Among the new major new features and changes so far:PEP
+799: A new high-frequency, low-overhead, statistical sampling
+profiler and dedicated profiling packagePEP
+686: Python now uses UTF-8 as the default encodingPEP
+782: A newPyBytesWriterC API to create a Python bytes
+objectImproved
+error messages(Hey,fellow core developer,if a feature
+you find important is missing from this list, let Hugo
+know.)The next pre-release of Python 3.15 will be 3.15.0a3, currently
+scheduled for 2025-12-16.More resourcesOnline
+documentationPEP 790, 3.15
+release scheduleReport bugs athttps://github.com/python/cpython/issuesHelp fund
+Python directly(or viaGitHub Sponsors) and
+supportthe Python
+communityAnd now for
+something completely different“An hour,” said Ahab, standing rooted in his boat’s stern; and he
+gazed beyond the whale’s place, towards the dim blue spaces and wide
+wooing vacancies to leeward. It was only an instant; for again his eyes
+seemed whirling round in his head as he swept the watery circle. The
+breeze now freshened; the sea began to swell.“The birds!—the birds!” cried Tashtego.Enjoy the new releaseThanks to all of the many volunteers who help make Python Development
+and these releases possible! Please consider supporting our efforts by
+volunteering yourself or through organisation contributions to thePython Software Foundation.Regards from a crisp and sunny subzero Helsinki,Your release team,Hugo van KemenadeNed DeilySteve DowerŁukasz Langa"
